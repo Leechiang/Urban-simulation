@@ -1,0 +1,11 @@
+s1_closeness_station,s1_closeness_efficiency,s1_closeness_largestC,s1_degree_station,s1_degree_efficiency,s1_degree_largestC,s1_betweenness_station,s1_betweenness_efficiency,s1_betweenness_largestC,s2_betweenness_station,s2_betweenness_efficiency,s2_betweenness_largestC,s2_degree_station,s2_degree_efficiency,s2_degree_largestC,s2_closeness_station,s2_closeness_efficiency,s2_closeness_largestC
+Green Park,0.09918992,400,Stratford,0.088917361,379,Stratford,0.088917361,379,Stratford,0.088917361,379,Stratford,0.088917361,379,Green Park,0.09918992,400
+Bank and Monument,0.094872325,399,Bank and Monument,0.085861644,378,Bank and Monument,0.085861644,378,King's Cross St. Pancras,0.084602931,378,Bank and Monument,0.085861644,378,King's Cross St. Pancras,0.09443475,399
+King's Cross St. Pancras,0.087933851,398,King's Cross St. Pancras,0.082033288,377,Liverpool Street,0.084963493,377,Waterloo,0.081828953,377,Baker Street,0.082033288,377,Waterloo,0.091816481,398
+Westminster,0.087371646,397,Baker Street,0.075700394,374,King's Cross St. Pancras,0.078497754,371,Bank and Monument,0.077677943,376,King's Cross St. Pancras,0.075700394,374,Bank and Monument,0.085425631,397
+Waterloo,0.084859438,396,Earl's Court,0.073022434,371,Waterloo,0.075942266,370,Canada Water,0.072832341,375,Canning Town,0.070395927,360,West Hampstead,0.080544248,396
+Oxford Circus,0.082781351,395,Oxford Circus,0.06893502,356,Green Park,0.074151542,369,West Hampstead,0.053210204,227,Green Park,0.069402353,359,Canada Water,0.058101042,226
+Bond Street,0.082580864,394,Liverpool Street,0.067219328,355,Euston,0.068205647,346,Earl's Court,0.0516563,226,Earl's Court,0.06777176,358,Stratford,0.051883621,226
+Farringdon,0.082600405,393,Waterloo,0.066220911,354,Westminster,0.067659503,345,Shepherd's Bush,0.045844213,196,Waterloo,0.065935803,357,Earl's Court,0.050350001,225
+Angel,0.082622331,392,Green Park,0.065361961,352,Baker Street,0.064700058,342,Euston,0.04163077,173,Oxford Circus,0.065069001,355,Shepherd's Bush,0.044394587,195
+Moorgate,0.081669914,389,Canning Town,0.063735921,346,Finchley Road,0.063139037,339,Baker Street,0.038163704,170,Willesden Junction,0.056747519,341,Oxford Circus,0.042957711,194
